@@ -40,11 +40,12 @@ Technical Foundation
 ✨ Key Advantages for Users
 
 ✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
-✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
+✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracke
 ✅ Cost-Effective — Share fuel costs rather than paying corporate commissions
 ✅ Community Trust — Rate system and verified profiles foster safer connections
 ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
 ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
+
 ---------------------------------------
 
 🌍 Why Cyprus Needs CypRide

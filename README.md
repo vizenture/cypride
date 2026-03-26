@@ -55,4 +55,11 @@ Technical Foundation
 
 🌍 Why Cyprus Needs CypRide
 
-Cyprus remains one of the few EU countries without Uber or similar global ride-hailing services. CypRide fills this gap with a solution that respects European privacy standards while serving the unique mobility patterns of Cypriot cities and villages — from Nicosia to Limassol, Larnaca to Paphos.
+While carpooling services like BlaBlaCar and Karos operate internationally, Cyprus has no dedicated, locally-optimized platform for community-based ride sharing. CypRide fills this gap with a zero-commission, open-source solution built specifically for Cypriot routes — connecting people across the island from Nicosia to Limassol, Larnaca to Paphos.
+
+- Drivers never profit — only share actual fuel/toll costs (GDPR-compliant cost-sharing model)
+- No hidden commissions eat into shared expenses
+- Every line of code is auditable by the community
+- Location privacy is respected as a right, not a product feature
+
+This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique geography, with technology that serves people, not shareholders.

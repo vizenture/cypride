@@ -34,7 +34,7 @@ Technical Foundation
 - Hive for local favorites storage (no cloud dependency)
 - Modular architecture for easy maintenance and contribution
 ---------------------------------------
-
+#
 ✨ **Key Advantages for Users**
 
 ✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs

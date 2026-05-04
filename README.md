@@ -11,7 +11,7 @@ Dual-Role Ride Marketplace
 
 Privacy-First Architecture
 - Location data is only collected during active rides — never stored or tracked in the background
-- End-to-end encrypted chat between riders and guests
+- End-to-end encrypted OTT chats between riders and guests
 - Minimal data collection policy compliant with GDPR standards
  
 Real-Time Features
@@ -25,7 +25,7 @@ User Experience
 - Dark/light theme support with adaptive UI
 - Responsive design (mobile-first with desktop testing support)
 - Native splash screen for optimal startup performance
-- Intuitive navigation with drawer menu (Profile, Tile, Favorites, Chat, Settings, FAQ, Contact)
+- Intuitive navigation with drawer menu (Profile, Tile, Favorite, Safety, Settings, FAQ, Contact)
 
 Technical Foundation
 - Built with Flutter for cross-platform consistency (iOS/Android)

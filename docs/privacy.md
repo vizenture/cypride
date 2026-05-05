@@ -5,7 +5,7 @@
 **App Version**: 1.0+  
 **Developer**: Vizenture (Open Source Project)  
 **Contact**: vizenture@gmail.com  
-**Hosting**: [Link to policy, e.g., https://github.com/vizenture/cypride/privacy]  
+**Hosting**: [Link to policy, e.g., https://vizenture.github.io/cypride/docs/privacy]  
 
 ---
 

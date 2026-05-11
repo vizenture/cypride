@@ -76,7 +76,5 @@ CypRide is an independant open-source project built for the Cyprus community. Yo
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://buymeacoffee.com/cypride)
 
-<a href="https://buymeacoffee.com" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cypride" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee latte" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 

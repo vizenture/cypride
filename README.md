@@ -72,4 +72,4 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
 
 CypRide is an independant open-source project built for the Cyprus community. You can support us in different ways:
 
-<a href="https://www.buymeacoffee.com/cypride"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee+latte&slug=cypride&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee latte" /></a>
+<a href="https://www.buymeacoffee.com/cypride"><img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+hot+coffee+latte&slug=cypride&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a hot coffee latte" /></a>

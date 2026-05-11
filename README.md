@@ -48,8 +48,8 @@ Technical Foundation
 <img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/713640b7-2fa7-47b1-bf4b-d475b09bc37e" />
 <img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/a38c3ce6-4ce2-45cd-b625-a7d38b59cd05" />
 <img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/20172df1-0990-4cb6-b2db-fd720938f4d3" />
-<img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/f965282d-0abb-4b80-9044-b82a2b147cb9" />
 <img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/4ad06b49-b037-404c-b6fc-99cdc7d4e937" />
+<img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/f965282d-0abb-4b80-9044-b82a2b147cb9" />
 
 ## 🌍 **Why Cyprus Needs CypRide**
 

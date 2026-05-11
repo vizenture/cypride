@@ -68,3 +68,9 @@ While carpooling services like BlaBlaCar and Karos operate internationally, Cypr
 
 This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique geography, with technology that serves people, not shareholders.
 
+## 🎁 **How can I support the CypRide project**
+
+CypRide is an independant open-source project built for the Cyprus community. You can support us in different ways:
+
+<a href="https://www.buymeacoffee.com/cypride"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee latte&emoji=&slug=cypride&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+

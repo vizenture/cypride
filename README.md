@@ -43,6 +43,11 @@ Technical Foundation
 - ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
 - ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
 
+## 🛠️ **Built with**
+
+- 💙 Flutter — Cross-platform UI toolkit for building natively compiled apps for mobile/web/desktop from a single codebase
+- 🎨 Material You — Google's 3rd generation design system, introduced in android 12
+
 ## 📸 **Screenshots**
 
 <img width="226" height="452.3" alt="image1" src="https://github.com/user-attachments/assets/713640b7-2fa7-47b1-bf4b-d475b09bc37e" />

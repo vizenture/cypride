@@ -47,6 +47,8 @@ Technical Foundation
 
 <img width="339" height="678.5" alt="image1" src="https://github.com/user-attachments/assets/7d30bedf-ab37-4790-8a93-e6a7503509d6" />
 <img width="339" height="678.5" alt="image1" src="https://github.com/user-attachments/assets/ff1ea12f-9100-4454-9817-972082939c9f" />
+<img width="339" height="678.5" alt="image1" src="https://github.com/user-attachments/assets/a38c3ce6-4ce2-45cd-b625-a7d38b59cd05" />
+
 
 
 ## 🌍 **Why Cyprus Needs CypRide**

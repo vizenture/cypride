@@ -47,7 +47,7 @@ Technical Foundation
 - ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
 - ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
 
-## 🛠️ **Built with**
+## 🛠️ **Built with (love)**
 - 🤖 AI - This project was supervided under AI developpment to design proper and secure code for the community.
 - 💙 Flutter — Cross-platform UI toolkit for building natively compiled apps for mobile/web/desktop from a single codebase
 - 🎨 Material You — Google's 3rd generation design system, introduced in android 12
@@ -76,7 +76,7 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
 
 https://github.com/vizenture/cypride/releases
 
-## 🙋 **Community Support**
+## 🙋 **Community**
 
 "As this is an open source project, we don't provide official support, but we listen on Telegram. Please note that we won't be replying on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"
 

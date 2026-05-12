@@ -82,6 +82,15 @@ https://github.com/vizenture/cypride/releases
 
 "As this is an open source project, we don't provide official support, but we do listen on Telegram. Please note that we won't be replying to messages on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"
 
+## 🤝 **How to contribute**
+
+- We do not accept code contributions. This project is maintained solely by us, and we intend to keep it that way.
+- Submit your suggestions on Issues and feel free to also share your thoughts on Telegram!
+- Share your ideas and suggestions. If you’re missing a feature or have an interesting idea, feel free to create a new Issue.
+- Report bugs. Encountered a crash or something went wrong? Create a new Issue with as much detail as possible to help resolve it.
+- Translate the app. You can help make the app accessible in multiple languages. To contribute, visit Hosted Weblate.
+- Enjoy the app. The best contribution is simply using and enjoying the app, we spent so much time on!
+
 ## 🎁 **How can I support the CypRide project**
 
 CypRide is an independant open-source project built for the Cyprus community. You can support us in different ways:

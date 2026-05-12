@@ -78,7 +78,7 @@ https://github.com/vizenture/cypride/releases
 
 ## 🙋 **Community Support**
 
-"As this is an open source project, we don't provide official support, but we listen on Telegram. Please note that the CypRide team won't be replying on this channel, but feel free to post your questions and feedback to help improve the app. Thanks for keeping the CypRide community focused!"
+"As this is an open source project, we don't provide official support, but we listen on Telegram. Please note that we won't be replying on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"
 
 ## 🎁 **How can I support the CypRide project**
 

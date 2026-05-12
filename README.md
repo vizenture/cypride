@@ -84,9 +84,11 @@ https://github.com/vizenture/cypride/releases
 
 ## 🤝 **How to contribute**
 
-- We don't accept code contributions. This project is maintained only by us, and we intend to keep it that way.
+- We do nt accept code contributions. 
+  This project is maintained only by us, and we intend to keep it that way.
 - Submit your ideas/suggestions on Telegram channel, we are always listening the Cyprus community.
-- Encountered a crash or something went wrong? Create a new Issue with as much detail as possible to help resolve it.
+- Encountered a crash or something went wrong? 
+  Create a new Issue with as much detail as possible to help resolve it.
 - You can help make the app accessible in multiple languages. To contribute, visit Hosted Weblate.
 - The best contribution is simply using and enjoying the app, we spent so much time on!
 

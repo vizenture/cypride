@@ -86,7 +86,7 @@ To verify the [APK](https://developer.android.com/tools/apksigner#usage-verify),
 
 ## 🙋 **Community**
 
-"As this is an open source project, we don't provide official support, but we do listen on Telegram. Please note that we won't be replying to messages on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"
+"As this is an open source project, we don't provide official support, but we do listen on [Telegram](https://t.me/+LR4iIYO_M54wYjFk). Please note that we won't be replying to messages on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"
 
 ## 🤝 **How to contribute**
 

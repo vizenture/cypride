@@ -2,7 +2,7 @@
 
 CypRide — Smart Ride-Sharing for Cyprus — is a privacy-focused, open-source ride-sharing application built exclusively for Cyprus with Flutter. Designed to fill the mobility gap in a market where major international ride-hailing services don't operate, CypRide empowers Cypriots to share journeys safely, affordably, and locally.
 
-<center><img width="256" height="256" alt="ic_launcher_web" src="https://github.com/user-attachments/assets/87de5cec-2167-4529-b312-aaf73b5a9c1d" /></center>
+<img align="center" width="170.6" height="170.6" alt="ic_launcher_web" src="https://github.com/user-attachments/assets/87de5cec-2167-4529-b312-aaf73b5a9c1d" />
 
 ## 🚗 **Core Functionalities**
 

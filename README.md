@@ -91,8 +91,8 @@ To verify the [APK](https://developer.android.com/tools/apksigner#usage-verify),
 ## 🤝 **How to contribute**
 
 - We do not accept code contributions. This project is maintained only by us, we intend to keep it that way.
-- Submit your ideas/suggestions on Telegram channel, we are always listening the Cyprus community.
-- Encountered a crash or run into an issue? Create a new Issue with full details to help resolve it.
+- Submit your ideas/suggestions on [Telegram](https://t.me/+LR4iIYO_M54wYjFk) channel, we are always listening the Cyprus community.
+- Encountered a crash or run into an issue? Create a new [Issue](https://github.com/vizenture/cypride/issues) with full details to help resolve it.
 - You can help make the app accessible in multiple languages. To contribute, visit Hosted Weblate.
 - The best contribution is simply using and enjoying the app, we spent so much time on!
 

@@ -48,7 +48,7 @@ Technical Foundation
 - ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
 
 ## 🛠️ **Built with**
-
+- 🤖 AI - This project was supervided under AI developpment to design proper and secure code for the community.
 - 💙 Flutter — Cross-platform UI toolkit for building natively compiled apps for mobile/web/desktop from a single codebase
 - 🎨 Material You — Google's 3rd generation design system, introduced in android 12
 

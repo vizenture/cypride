@@ -79,8 +79,10 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
 https://github.com/vizenture/cypride/releases
 
 To verify the [APK](https://developer.android.com/tools/apksigner#usage-verify), use the following signing certificate fingerprints:
-```- SHA-1: 23:54:c7:c7:0a:68:d2:09:1a:45:d0:fb:af:e7:cb:0c:5f:31:cc:1b```
-```- SHA-256: 86:b1:12:3f:be:4c:a7:2e:58:79:4b:bf:2a:0e:f0:b6:1b:39:36:36:83:ba:0a:95:77:d1:67:2e:37:9d:d4:d6```
+```
+- SHA-1: 23:54:c7:c7:0a:68:d2:09:1a:45:d0:fb:af:e7:cb:0c:5f:31:cc:1b
+- SHA-256: 86:b1:12:3f:be:4c:a7:2e:58:79:4b:bf:2a:0e:f0:b6:1b:39:36:36:83:ba:0a:95:77:d1:67:2e:37:9d:d4:d6
+```
 
 ## 🙋 **Community**
 

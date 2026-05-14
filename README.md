@@ -79,9 +79,6 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
 <a href="https://github.com/vizenture/cypride/releases">
   <img src="https://raw.githubusercontent.com/rubenpgrady/get-it-on-github/refs/heads/main/get-it-on-github.png" alt="Get it on GitHub" height="96" />
 </a>
-<a href="https://t.me/CypRideOfficial">
- <img width="313.3" height="96" alt="get-it-on-telegram" src="https://github.com/user-attachments/assets/d840660c-d02f-44ef-a06e-faf4221e6598" />
-</a>
 
 To verify your downloaded APK with tools as [AppVerifier](https://github.com/soupslurpr/AppVerifier) or [apksigner](https://developer.android.com/tools/apksigner), use the following signing certificate fingerprints:
 ```

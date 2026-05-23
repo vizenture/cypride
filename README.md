@@ -10,30 +10,30 @@ CypRide — Smart Ride-Sharing for Cyprus — is a privacy-focused, open-source 
 
 ## 🚗 **Core Functionalities**
 
-Dual-Role Ride Marketplace
+👤 Dual-Role Ride Marketplace
 - Riders: Offer available seats in your vehicle for specific routes and times
 - Guests: Find and join rides matching your destination and schedule
 - Smart filtering between ride types with intuitive tab navigation
 
-Privacy-First Architecture
+🛡️ Privacy-First Architecture
 - Location data is only collected during active rides — never stored or tracked in the background
 - End-to-end encrypted OTT chats between riders and guests
 - Minimal data collection policy compliant with GDPR standards
  
-Real-Time Features
+🧭 Real-Time Features
 - Live ride discovery with departure time filtering
 - Search rides by origin/destination locations
 - Favorites system for saving preferred routes (offline-capable via Hive)
 - Real-time availability status ("active rides only" filtering)
 
-User Experience
+🎯 User Experience
 - Beautiful onboarding flow explaining the privacy model upfront
 - Dark/light theme support with adaptive UI
 - Responsive design (mobile-first with desktop testing support)
 - Native splash screen for optimal startup performance
 - Intuitive navigation with drawer menu (Profile, Tile, Favorite, Safety, Settings, FAQ, Contact)
 
-Technical Foundation
+⚙️ Technical Foundation
 - Built with Flutter for cross-platform consistency (iOS/Android)
 - Firebase backend (Authentication, Firestore) with offline resilience
 - GoRouter for type-safe navigation
@@ -42,12 +42,12 @@ Technical Foundation
 
 ## ✨ **Key Advantages for Users**
 
-- ✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
-- ✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
-- ✅ Cost-Effective — Share fuel costs rather than paying corporate commissions
-- ✅ Community Trust — Rate system and verified profiles foster safer connections
-- ✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
-- ✅ Lightweight — Minimal permissions requested; works efficiently on older devices
+✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
+✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
+✅ Cost-Effective — Share fuel costs rather than paying corporate commissions
+✅ Community Trust — Rate system and verified profiles foster safer connections
+✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
+✅ Lightweight — Minimal permissions requested; works efficiently on older devices
 
 ## 🛠️ **Built with (love)**
 - 🤖 AI - This project was supervided under AI developpment to design proper and secure code for the community.

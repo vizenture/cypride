@@ -74,6 +74,9 @@ While carpooling services like BlaBlaCar and Karos operate internationally, Cypr
 
 This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique geography, with technology that serves people, not shareholders.
 
+> [!CAUTION]
+> "While we developed this open-source app with care, its use is entirely at your own risk. We assume no liability for actions or decisions made when arranging private rides between individuals."
+
 ## 📥 **Download**
 
 <a href="https://github.com/vizenture/cypride/releases">

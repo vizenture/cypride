@@ -42,12 +42,12 @@ CypRide — Smart Ride-Sharing for Cyprus — is a privacy-focused, open-source 
 
 ## ✨ **Key Advantages for Users**
 
-✅ Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
-✅ Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
-✅ Cost-Effective — Share fuel costs rather than paying corporate commissions
-✅ Community Trust — Rate system and verified profiles foster safer connections
-✅ Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
-✅ Lightweight — Minimal permissions requested; works efficiently on older devices
+- Truly Local — Built by and for Cyprus, understanding local routes, culture, and needs
+- Privacy by Design — Unlike global alternatives, your location isn't monetized or tracked
+- Cost-Effective — Share fuel costs rather than paying corporate commissions
+- Community Trust — Rate system and verified profiles foster safer connections
+- Transparent & Open — 100% open-source code auditable by anyone (no hidden tracking)
+- Lightweight — Minimal permissions requested; works efficiently on older devices
 
 ## 🛠️ **Built with (love)**
 - 🤖 AI - This project was supervided under AI developpment to design proper and secure code for the community.

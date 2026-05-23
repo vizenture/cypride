@@ -97,6 +97,7 @@ To verify your downloaded APK with tools as [AppVerifier](https://github.com/sou
 - [X] **Fully compliant** with Google Play policies
 - [X] **Begin** optimization efforts to improve stability
 - [ ] **Implement** ride notifications for the dashboard
+- [ ] **Implement** app update notification for new version
 - [ ] **Add** Language options in settings (Greek, Russian)
 
 ## 🙋 **Community**

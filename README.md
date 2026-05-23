@@ -89,6 +89,14 @@ To verify your downloaded APK with tools as [AppVerifier](https://github.com/sou
 - SHA-256: 86:b1:12:3f:be:4c:a7:2e:58:79:4b:bf:2a:0e:f0:b6:1b:39:36:36:83:ba:0a:95:77:d1:67:2e:37:9d:d4:d6
 ```
 
+## 🚀 **Coming soon..**
+
+[X] Fully compliant with Google Play policy
+[] Language options in settings (Greek, Russian)
+[] Notification for rides published in dashboard
+[] Start optimization improvment for a better stability
+
+
 ## 🙋 **Community**
 
 "As this is an open source project, we don't provide official support, but we do listen on [Telegram](https://t.me/+LR4iIYO_M54wYjFk). Please note that we won't be replying to messages on this channel, but feel free to post your feedback to help improve the app. Thanks for keeping the CypRide community focused!"

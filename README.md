@@ -1,10 +1,10 @@
-# CypRide 🇨🇾 - Carpool Community App for Cyprus
-
-CypRide — Smart Ride-Sharing for Cyprus — is a privacy-focused, open-source ride-sharing application built exclusively for Cyprus with Flutter. Designed to fill the mobility gap in a market where major international ride-hailing services don't operate, CypRide empowers Cypriots to share journeys safely, affordably, and locally.
-
 <div align="center">
 <img width="128" height="128" alt="ic_launcher_web" src="https://github.com/user-attachments/assets/87de5cec-2167-4529-b312-aaf73b5a9c1d" />
 </div>
+
+# CypRide 🇨🇾 - Carpool Community App for Cyprus
+
+CypRide — Smart Ride-Sharing for Cyprus — is a privacy-focused, open-source ride-sharing application built exclusively for Cyprus with Flutter. Designed to fill the mobility gap in a market where major international ride-hailing services don't operate, CypRide empowers Cypriots to share journeys safely, affordably, and locally.
 
 ## 🚗 **Core Functionalities**
 

@@ -89,7 +89,7 @@ As a user in the EU/Cyprus, you have the right to:
 
 ## 7. Data Deletion Process
 
-1. Open CypRide → Settings → Account → "Delete My Data"
+1. Open CypRide → Contact → Telegram → Request account deletion
 2. Confirm via email verification
 3. All personal data (profile, ride history, auth tokens) is permanently deleted from our systems within 30 days
 4. Anonymized analytics data (non-identifiable) may be retained for aggregate service improvement

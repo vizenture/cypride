@@ -77,15 +77,19 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
 
 ## 📥 **Download**
 
-<a href="https://github.com/vizenture/cypride/releases">
-  <img src="https://raw.githubusercontent.com/rubenpgrady/get-it-on-github/refs/heads/main/get-it-on-github.png" alt="Get it on GitHub" height="96" />
-</a>
-<a href="https://t.me/CypRideOfficial">
-  <img src="https://s1.ax1x.com/2023/01/12/pSnTZ0f.png" alt="Get it on Telegram" height="96" />
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.vizenture.cypride">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="96" />
-</a>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <a href="https://github.com/vizenture/cypride/releases">
+    <img src="https://raw.githubusercontent.com/rubenpgrady/get-it-on-github/refs/heads/main/get-it-on-github.png" alt="Get it on GitHub" height="96" />
+  </a>
+  
+  <a href="https://play.google.com/store/apps/details?id=your.package.name">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="96" />
+  </a>
+  
+  <a href="https://t.me/CypRideOfficial">
+    <img src="https://s1.ax1x.com/2023/01/12/pSnTZ0f.png" alt="Get it on Telegram" height="96" />
+  </a>
+</div>
 
 To verify your downloaded APK with tools as [AppVerifier](https://github.com/soupslurpr/AppVerifier) or [apksigner](https://developer.android.com/tools/apksigner), use the following signing certificate fingerprints:
 ```

@@ -84,7 +84,7 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
   <img src="https://s1.ax1x.com/2023/01/12/pSnTZ0f.png" alt="Get it on Telegram" height="96" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.vizenture.cypride">
-  <img width="324" height="96" alt="PreRegisterOnGooglePlay_Badge_Web_color_en-GB" src="https://github.com/user-attachments/assets/4f4f1433-c7d7-420d-9bd8-5a8c66d0c012" />
+  <img width="270" height="80" alt="PreRegisterOnGooglePlay_Badge_Web_color_en-GB" src="https://github.com/user-attachments/assets/4f4f1433-c7d7-420d-9bd8-5a8c66d0c012" />
 </a>
 
 To verify your downloaded APK with tools as [AppVerifier](https://github.com/soupslurpr/AppVerifier) or [apksigner](https://developer.android.com/tools/apksigner), use the following signing certificate fingerprints:

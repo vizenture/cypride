@@ -82,9 +82,9 @@ This isn't ride-hailing — it's neighbor helping neighbor across Cyprus' unique
     <img src="https://raw.githubusercontent.com/rubenpgrady/get-it-on-github/refs/heads/main/get-it-on-github.png" alt="Get it on GitHub" height="96" />
   </a>
   
-  <a href="https://play.google.com/store/apps/details?id=com.vizenture.cypride">
-    <!-- <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_preorder.png" alt="Pre-register on Google Play" height="96" /> -->
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="96" />
+  <a href="https://groups.google.com/g/cypride-beta/c/mdOwdBl-ms0">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_preorder.png" alt="Pre-register on Google Play" height="96" />
+    <!-- <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="96" /> -->
   </a>
   
   <a href="https://t.me/CypRideOfficial">
